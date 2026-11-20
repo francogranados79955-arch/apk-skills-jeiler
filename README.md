@@ -54,3 +54,4 @@ python -I -m unittest discover -s tests
 - **No se probó:** el camino TWA ni la publicación en Play Store.
 - Las skills de Compose, React Native y Play Store son de terceros; revísalas antes de depender de ellas.
 - Revisión de seguridad hecha con gitleaks: ver `SEGURIDAD.md`. Origen y versión de cada skill: ver `FUENTES.md`.
+h
